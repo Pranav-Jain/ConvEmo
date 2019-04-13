@@ -1,0 +1,26 @@
+Number of Inputs 2000
+Number of Features 4196
+Number of Features in each Train [1392, 1608, 1196]
+Start Training
+0.8953333333333333 Training Error
+0.9246666666666666 Training Error
+0.9273333333333333 Training Error
+0.9073333333333333 Training Error
+0.756 Test Error
+0.74 Test Error
+0.774 Test Error
+0.736 Test Error
+Training Done
+1392 1608 1196 sizes
+turn 1 triggered_words ['happy', 'funny', 'haha', 'crack', 'favourite', 'sense', 'nice', 'excited', 'hahaha', 'india']
+turn 2 triggered_words ['happy', 'funny', 'books', 'indian', 'loved', 'laughing', 'hahaha', 'serious', 'clear', 'congrats', 'entire', 'inside', 'noticed', 'since', 'wont']
+turn 3 triggered_words ['haha', 'funny', 'wow', 'awesome', 'happy', 'hahaha', 'nice', 'lol', 'great', 'amazing']
+turn 1 triggered_words ['sad', 'fine', 'health', 'mood', 'bad', 'feel', 'pain', 'hurt', 'poor', 'clean', 'crying', 'dark', 'days', 'failed', 'hurts', 'lot', 'saturday', 'set', 'soo']
+turn 2 triggered_words ['change', 'feel', 'happened', 'another', 'oh', 'honestly', 'mood', 'poor', 'upset', 'emotions']
+turn 3 triggered_words ['sad', 'bad', 'sorry', 'alone', 'depressed', 'nobody', 'much', 'loves', 'miss', 'feeling']
+turn 1 triggered_words ['hate', 'stupid', 'angry', 'annoying', 'lame', 'shut', 'irritating', 'happiness', 'irritated', 'told']
+turn 2 triggered_words ['angry', 'hate', 'agree', 'dare', 'person', 'say', 'boys', 'creepy', 'exams', 'hm', 'jealous', 'judge', 'opposite', 'self', 'shut', 'word']
+turn 3 triggered_words ['stupid', 'hate', 'fuck', 'rude', 'angry', 'annoying', 'dont', 'irritating', 'bitch', 'stop']
+turn 1 triggered_words ['30', 'address', 'bby', 'free', 'pic', 'profile', 'ready', 'self', 'soon', 'um', 'weekend', 'welcome']
+turn 2 triggered_words ['sent', 'around', 'obviously', 'wanna', 'baby', 'married', 'minutes', 'replied', 'respond', 'short', 'sitting', 'weird', 'yaa']
+turn 3 triggered_words ['live', 'tell', 'sex', 'name', 'bored', 'coffee', 'country', 'didnt', 'later', 'meaning', 'mo', 'physical', 'prefer', 'soon', 'suggest', 'thanx', 'whats', 'wrote', 'wt']

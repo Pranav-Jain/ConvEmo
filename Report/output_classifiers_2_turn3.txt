@@ -1,0 +1,20 @@
+Data Split Done....
+
+
+Neural Net
+Neural Net Trained
+              precision    recall  f1-score   support
+
+           0       0.70      0.48      0.57       816
+           1       0.69      0.34      0.45      1143
+           2       0.76      0.32      0.45      1116
+           3       0.61      0.92      0.73      2957
+
+   micro avg       0.64      0.64      0.64      6032
+   macro avg       0.69      0.51      0.55      6032
+weighted avg       0.67      0.64      0.60      6032
+
+Test Accuracy: 0.6362732095490716
+Train Accuracy: 0.6579492705570292
+
+Model Saved
